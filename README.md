@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFsMmc2YmFxcnc3eGVtNGFqZjd3NnZ6eTU4a295cDNtamw0bG81OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Efp5YatTdnNID16bat/giphy.gif" width="200">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFsMmc2YmFxcnc3eGVtNGFqZjd3NnZ6eTU4a295cDNtamw0bG81OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Efp5YatTdnNID16bat/giphy.gif" width="150">
 
 #### About me:
 - 🎓 Graduated.
